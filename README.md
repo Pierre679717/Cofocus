@@ -348,6 +348,6 @@ cofocus/
 Projet réalisé dans le cadre d'une certification de développeur web (RNCP 37674) et d'une trajectoire vers le développement bancaire, avec ambition d'expatriation au Luxembourg.
 Toute remarque, retour technique ou opportunité sont les bienvenus.
 
-**Pierre** · [GitHub](https://github.com/Pierre679717) · [LinkedIn](https://linkedin.com/in/pierre)
+**Pierre** · [GitHub](https://github.com/Pierre679717) ·
 
 > *« Le Terminal et la Plume »*
